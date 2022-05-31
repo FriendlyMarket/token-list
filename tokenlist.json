@@ -1,0 +1,26 @@
+{
+  "tokens": [
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3",
+      "contractHash": "40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f",
+      "name": "Wrapped CSPR",
+      "symbol": "WCSPR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "7394349c69acbc6cde6f33e83af6af185ddb45aaf576d8c188eecd6d69220abd",
+      "contractHash": "b21eb14f16d5c1dba46794863abff2a5fe27d133fd2e234a67dde91635ce09fa",
+      "name": "Friendly Market Token",
+      "symbol": "REI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/b21eb14f16d5c1dba46794863abff2a5fe27d133fd2e234a67dde91635ce09fa/logo.png",
+      "pairs": []
+    }
+  ]
+}

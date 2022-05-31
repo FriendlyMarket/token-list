@@ -1,0 +1,31 @@
+{
+  "name": "Friendly Market Token",
+  "website": "https://www.friendly.market/",
+  "description": "REI is the Friendly Market token. Friendly Market is the home of DeFi on Casper Network.",
+  "explorer": "https://cspr.live/contract-package/7394349c69acbc6cde6f33e83af6af185ddb45aaf576d8c188eecd6d69220abd",
+  "type": "ERC20",
+  "symbol": "REI",
+  "decimals": 18,
+  "status": "active",
+  "id": "7394349c69acbc6cde6f33e83af6af185ddb45aaf576d8c188eecd6d69220abd",
+  "tags": ["defi"],
+
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/FriendlyMarket"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/friendlymarkets"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/friendlymarketann"
+    },
+    {
+      "name": "medium",
+      "url": "https://friendlymarket.medium.com/"
+    }
+  ]
+}
