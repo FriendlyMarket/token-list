@@ -2,6 +2,17 @@
   "tokens": [
     {
       "chainId": 1,
+      "type": "Native",
+      "contractPackageHash": "b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3",
+      "contractHash": "40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f",
+      "name": "Casper Network",
+      "symbol": "CSPR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
       "type": "ERC20",
       "contractPackageHash": "b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3",
       "contractHash": "40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f",
