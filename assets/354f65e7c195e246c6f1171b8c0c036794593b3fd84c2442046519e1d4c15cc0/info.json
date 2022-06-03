@@ -1,10 +1,10 @@
 {
   "name": "USD Coin",
   "website": "https://centre.io/usdc",
-  "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+  "description": "DotOracle wrapped USD Coin (USDC).",
   "explorer": "https://cspr.live/contract-package/354f65e7c195e246c6f1171b8c0c036794593b3fd84c2442046519e1d4c15cc0",
   "type": "ERC20",
-  "symbol": "USDC",
+  "symbol": "dUSDC",
   "decimals": 6,
   "status": "active",
   "id": "354f65e7c195e246c6f1171b8c0c036794593b3fd84c2442046519e1d4c15cc0",

@@ -1,10 +1,10 @@
 {
   "name": "Tether",
   "website": "https://tether.to",
-  "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+  "description": "DotOracle wrapped Tether (USDT)",
   "explorer": "https://cspr.live/contract-package/6a39adb3af054cbd3055e07213ec55343d8e785ac8a43b9717fb21da55dc1f40",
   "type": "ERC20",
-  "symbol": "USDT",
+  "symbol": "dUSDT",
   "decimals": 6,
   "status": "active",
   "id": "6a39adb3af054cbd3055e07213ec55343d8e785ac8a43b9717fb21da55dc1f40",
