@@ -8,7 +8,7 @@
       "name": "Casper Network",
       "symbol": "CSPR",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3/logo.png",
       "pairs": []
     },
     {
@@ -19,7 +19,40 @@
       "name": "Wrapped CSPR",
       "symbol": "WCSPR",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/40bd4a45c414df61be3832e28ff6dcedc479744707c611fd97fea0d90619146f/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "afc752ad814c4e05cafb25fb676fd74b65f1a340c5b5f0055814d3dd5115280a",
+      "contractHash": "012f8f3689ddf5c7a92ddeb54a311afb660051bb5fab3568dbb3d796809be8c6",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/afc752ad814c4e05cafb25fb676fd74b65f1a340c5b5f0055814d3dd5115280a/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "354f65e7c195e246c6f1171b8c0c036794593b3fd84c2442046519e1d4c15cc0",
+      "contractHash": "48bd364532febf044cca8d2d716336b93d27458ce0aa48ad292ca28304fa8649",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/354f65e7c195e246c6f1171b8c0c036794593b3fd84c2442046519e1d4c15cc0/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "6a39adb3af054cbd3055e07213ec55343d8e785ac8a43b9717fb21da55dc1f40",
+      "contractHash": "b53fa728c7074c84f35407f4d0989eb4133d391402b7ce13b7feeb01479a4f01",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/6a39adb3af054cbd3055e07213ec55343d8e785ac8a43b9717fb21da55dc1f40/logo.png",
       "pairs": []
     },
     {
@@ -30,7 +63,7 @@
       "name": "Friendly Market Token",
       "symbol": "REI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/b21eb14f16d5c1dba46794863abff2a5fe27d133fd2e234a67dde91635ce09fa/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/7394349c69acbc6cde6f33e83af6af185ddb45aaf576d8c188eecd6d69220abd/logo.png",
       "pairs": []
     }
   ]
