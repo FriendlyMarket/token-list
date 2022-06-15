@@ -65,6 +65,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/d7e482979b32ff11fd6c29d2b56e897c7efaee04f24d9d31872b10c56f40969e/logo.png",
       "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "04ac0530f7442ec76401f3f58051a59c2cfe4315bdef96eb44b28970cc002625",
+      "contractHash": "3f5733a5c06b6d2465937aae5b8408b4076fed6108183427100786a2cba0bf98",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/04ac0530f7442ec76401f3f58051a59c2cfe4315bdef96eb44b28970cc002625/logo.png",
+      "pairs": []
     }
   ]
 }
