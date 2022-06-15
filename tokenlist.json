@@ -54,6 +54,17 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/6a39adb3af054cbd3055e07213ec55343d8e785ac8a43b9717fb21da55dc1f40/logo.png",
       "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "d7e482979b32ff11fd6c29d2b56e897c7efaee04f24d9d31872b10c56f40969e",
+      "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658",
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/d7e482979b32ff11fd6c29d2b56e897c7efaee04f24d9d31872b10c56f40969e/logo.png",
+      "pairs": []
     }
   ]
 }
