@@ -1,0 +1,30 @@
+{
+  "name": "Wrapped Casper",
+  "website": "https://www.casper.network/",
+  "description": "wCSPR is the wrapped version of CSPR. CSPR is the token for the first proof-of-stake blockchain built off the Casper CBC specification.",
+  "explorer": "https://cspr.live/contract-package/b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3",
+  "type": "ERC20",
+  "symbol": "CSPR",
+  "decimals": 9,
+  "status": "active",
+  "id": "b42a439eb81cc5bf250e30785eaa59c7285a919663a98a21217df0fd7dcb19a3",
+  "tags": ["wrapped"],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/casper-network"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Casper_Network"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/casperblockchain"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/casper-network/"
+    }
+  ]
+}
