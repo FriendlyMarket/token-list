@@ -25,6 +25,17 @@
     {
       "chainId": 1,
       "type": "ERC20",
+      "contractPackageHash": "3e90b4b6b82c67ee795b7ae94caa478380bfe288f0e2b18ab1c7cbe9ca9a835a",
+      "contractHash": "79dfa656d41733ccf5125e09d7e9abd8fdbce1fa7d89eae6af44e60e415f9f23",
+      "name": "Liquid Staked Casper",
+      "symbol": "stCSPR",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/3e90b4b6b82c67ee795b7ae94caa478380bfe288f0e2b18ab1c7cbe9ca9a835a/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
       "contractPackageHash": "c44d2505862832d8043fbe32f068b92895f84b2e479f8a29954a94fce6835360",
       "contractHash": "3e46fdbcd0e5882ef2130456195f1658f02789b4b69a8e8e1dde773c2565555a",
       "name": "Wrapped BTC",

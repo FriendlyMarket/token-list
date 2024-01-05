@@ -1,0 +1,11 @@
+{
+  "name": "Liquid Staked Casper",
+  "website": "https://stcspr.paradiso.io",
+  "description": "Liquid Staked Casper",
+  "explorer": "https://cspr.live/contract-package/3e90b4b6b82c67ee795b7ae94caa478380bfe288f0e2b18ab1c7cbe9ca9a835a",
+  "type": "ERC20",
+  "symbol": "stCSPR",
+  "decimals": 9,
+  "status": "active",
+  "id": "3e90b4b6b82c67ee795b7ae94caa478380bfe288f0e2b18ab1c7cbe9ca9a835a"
+}
