@@ -25,12 +25,12 @@
     {
       "chainId": 1,
       "type": "ERC20",
-      "contractPackageHash": "3e90b4b6b82c67ee795b7ae94caa478380bfe288f0e2b18ab1c7cbe9ca9a835a",
-      "contractHash": "79dfa656d41733ccf5125e09d7e9abd8fdbce1fa7d89eae6af44e60e415f9f23",
+      "contractPackageHash": "65cf6b0585ddd362d2c57314043b36a679af501f686771ccb67dc5976968efe0",
+      "contractHash": "57a79404d5d4be9334b083512ad673da900523bcc0d7867e2316de4c93547cd6",
       "name": "Liquid Staked Casper",
       "symbol": "stCSPR",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/3e90b4b6b82c67ee795b7ae94caa478380bfe288f0e2b18ab1c7cbe9ca9a835a/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/65cf6b0585ddd362d2c57314043b36a679af501f686771ccb67dc5976968efe0/logo.png",
       "pairs": []
     },
     {
