@@ -1,0 +1,11 @@
+{
+  "name": "Shiboo",
+  "website": "https://shiboo.io/",
+  "description": "Shiboo is an ecosystem of tools and platforms on Casper Network to help users navigate the chain, trade, etc.",
+  "explorer": "https://cspr.live/contract-package/94b4ce46711aa9a778bf472dd257f25588e5d326623a125c5d1d8ceec7455b89",
+  "type": "ERC20",
+  "symbol": "SHIBOO",
+  "decimals": 18,
+  "status": "active",
+  "id": "94b4ce46711aa9a778bf472dd257f25588e5d326623a125c5d1d8ceec7455b89"
+}

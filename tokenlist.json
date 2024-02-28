@@ -98,6 +98,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/04ac0530f7442ec76401f3f58051a59c2cfe4315bdef96eb44b28970cc002625/logo.png",
       "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
+      "contractPackageHash": "94b4ce46711aa9a778bf472dd257f25588e5d326623a125c5d1d8ceec7455b89",
+      "contractHash": "4d7c5ece0a0dfeea697e6e79cbc9d75d589f2046dff701f944295f630825bd3d",
+      "name": "Shiboo",
+      "symbol": "SHIBOO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/94b4ce46711aa9a778bf472dd257f25588e5d326623a125c5d1d8ceec7455b89/logo.png",
+      "pairs": []
     }
   ]
 }
