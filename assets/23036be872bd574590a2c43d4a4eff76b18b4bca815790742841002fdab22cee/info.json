@@ -1,0 +1,11 @@
+{
+  "name": "csprUSD",
+  "website": "",
+  "description": "CEP-18 Stablecoin token 1:1 USD",
+  "explorer": "https://cspr.live/contract-package/23036be872bd574590a2c43d4a4eff76b18b4bca815790742841002fdab22cee",
+  "type": "ERC20",
+  "symbol": "csprUSD",
+  "decimals": 6,
+  "status": "active",
+  "id": "23036be872bd574590a2c43d4a4eff76b18b4bca815790742841002fdab22cee"
+}

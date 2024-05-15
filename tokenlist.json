@@ -80,6 +80,17 @@
     {
       "chainId": 1,
       "type": "ERC20",
+      "contractPackageHash": "23036be872bd574590a2c43d4a4eff76b18b4bca815790742841002fdab22cee",
+      "contractHash": "bfcc7bb8e1966873dce870fe7aac94230dfea851dce663a4daab629210d4c6a5",
+      "name": "csprUSD",
+      "symbol": "csprUSD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/23036be872bd574590a2c43d4a4eff76b18b4bca815790742841002fdab22cee/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
       "contractPackageHash": "d7e482979b32ff11fd6c29d2b56e897c7efaee04f24d9d31872b10c56f40969e",
       "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658",
       "name": "DAI Stablecoin",
