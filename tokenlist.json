@@ -69,6 +69,17 @@
     {
       "chainId": 1,
       "type": "ERC20",
+      "contractPackageHash": "d3c7781640e7fba13392da21e3f7bf9fb33a90f1b5972e8598b0d3684f027313",
+      "contractHash": "13316750d8611db0ad068580e34bd076aed81788f6f258933c002a9316d11ff4",
+      "name": "Fatso",
+      "symbol": "FATSO",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/d3c7781640e7fba13392da21e3f7bf9fb33a90f1b5972e8598b0d3684f027313/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
       "contractPackageHash": "c44d2505862832d8043fbe32f068b92895f84b2e479f8a29954a94fce6835360",
       "contractHash": "3e46fdbcd0e5882ef2130456195f1658f02789b4b69a8e8e1dde773c2565555a",
       "name": "Wrapped BTC",
