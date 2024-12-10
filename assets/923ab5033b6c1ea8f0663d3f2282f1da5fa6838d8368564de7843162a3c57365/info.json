@@ -1,0 +1,11 @@
+{
+  "name": "NEXFI Token",
+  "website": "",
+  "description": "NEXFI Launchpad native token",
+  "explorer": "https://cspr.live/contract-package/923ab5033b6c1ea8f0663d3f2282f1da5fa6838d8368564de7843162a3c57365",
+  "type": "ERC20",
+  "symbol": "NFI",
+  "decimals": 4,
+  "status": "active",
+  "id": "923ab5033b6c1ea8f0663d3f2282f1da5fa6838d8368564de7843162a3c57365"
+}

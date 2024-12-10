@@ -102,6 +102,17 @@
     {
       "chainId": 1,
       "type": "ERC20",
+      "contractPackageHash": "923ab5033b6c1ea8f0663d3f2282f1da5fa6838d8368564de7843162a3c57365",
+      "contractHash": "aa9e18f21c8058aebed3c5177b6d810d78f2dd95c8ebfff179c0ec98bb0dc7a8",
+      "name": "NEXFI Token",
+      "symbol": "NFI",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/923ab5033b6c1ea8f0663d3f2282f1da5fa6838d8368564de7843162a3c57365/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
       "contractPackageHash": "d7e482979b32ff11fd6c29d2b56e897c7efaee04f24d9d31872b10c56f40969e",
       "contractHash": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658",
       "name": "DAI Stablecoin",
