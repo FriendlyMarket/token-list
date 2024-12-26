@@ -58,6 +58,17 @@
     {
       "chainId": 1,
       "type": "ERC20",
+      "contractPackageHash": "f5e3729b502597fdd7be9ecedb6f73e4530f5e8a4c809f269d757677cbe49b78",
+      "contractHash": "a1b3018d2263069efd1508a0c1fe013dd0d1fe03e20873c5a4f4cadab132660e",
+      "name": "Casper AI",
+      "symbol": "$AIAGENT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FriendlyMarket/token-list/main/assets/f5e3729b502597fdd7be9ecedb6f73e4530f5e8a4c809f269d757677cbe49b78/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "type": "ERC20",
       "contractPackageHash": "23036be872bd574590a2c43d4a4eff76b18b4bca815790742841002fdab22cee",
       "contractHash": "bfcc7bb8e1966873dce870fe7aac94230dfea851dce663a4daab629210d4c6a5",
       "name": "csprUSD",
